@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NewTechie505
 - 👀 I’m interested in history and cybersecurity
-- 🌱 I’m currently learning digital humanities
+- 🌱 I’m currently learning CS concepts
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
