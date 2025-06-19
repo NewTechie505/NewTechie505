@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @NewTechie505
+- 👋 Hi, I’m Bryna
 - 👀 I’m interested in history and cybersecurity
-- 🌱 I’m currently learning CS concepts and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning CS concepts, Python, cyber forensics . . .
 
 <!---
 NewTechie505/NewTechie505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
